@@ -1,5 +1,4 @@
-# Hospital Management
-# For Full working project
+# Online Hospital Management
 # Home page 
 ![image](https://user-images.githubusercontent.com/86907511/191170844-370e2a61-2c06-41f6-95fc-d6a9ad08c219.png)
 # Admin page
